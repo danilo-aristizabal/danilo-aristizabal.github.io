@@ -57,7 +57,7 @@ informality. </p>
  <a href="https://twitter.com/dearistizabalg" style="color:black;font-size:12px;"> <img alt="Qries" src="./images/twitter.jpg" width=20" height="20">  @dearistizabalg</a> 
 
 <!-- GitHub -->
-<a href="https://github.com/danilo-aristizabal" style="color:black;font-size:12px;"> <img alt="Qries" src="./images/github.png" width=20" height="20">  eduard-martinez</a>
+<a href="https://github.com/danilo-aristizabal" style="color:black;font-size:12px;"> <img alt="Qries" src="./images/github.png" width=20" height="20">  danilo-aristizabal</a>
 </div>
 <!------------- Panel de la derecha ------------->
 
