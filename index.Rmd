@@ -10,7 +10,7 @@ pagetitle : Home - Danilo Esteban Aristizabal Giraldo
 <!-- Foto completa -->
 <img src="./images/profile1.png" class="center" alt="drawing" width="240" height="250xº"/>
 
-#### Danilo Aristizabal
+#### Danilo Esteban Aristizabal Giraldo
 Economics, PhD student at Universidad de los Andes, interested in Labor Economics and Development.
 
 <!-- Location -->
@@ -42,7 +42,7 @@ Economics, PhD student at Universidad de los Andes, interested in Labor Economic
 I’m a PhD student in Economics at Universidad de los Andes. 
 
 ### Research interests 
-Labor Economics, Development and Sovereign default
+Labor Economics, Development and Sovereign default.
 
 ### Experience
 
@@ -54,13 +54,13 @@ Labor Economics, Development and Sovereign default
   
   + <p><strong style="color:black;font-size:16px;"> TA: </strong>  2019. Macroeconomics (PhD), Universidad de los Andes. </p>
  
-  + <p><strong style="color:black;font-size:16px;"> TA: </strong>  2017. International Trade (Undergrad, English), Universidad de los Andes. </p>
+  + <p><strong style="color:black;font-size:16px;"> TA: </strong>  2017. International Trade (Undergrad, English), Universidad Carlos III de Madrid. </p>
 
 * #### Research
 
-  + <p><strong style="color:black;font-size:16px;"> Research Analyst: </strong>  Telefonica - Universidad de los Andes. 2019 - 2020. </p>
+  + <p><strong style="color:black;font-size:16px;"> Research Analyst: </strong>  Telefónica - Universidad de los Andes. 2019 - 2020. </p>
   
-  + <p><strong style="color:black;font-size:16px;"> Research Assitant: </strong>  Covida project - Universidad de los Andes. March 2020 - Currently. </p>
+  + <p><strong style="color:black;font-size:16px;"> Research Assitant: </strong>  COVIDA Project - Universidad de los Andes. March 2020 - Currently. </p>
 
 ### Skills
 
@@ -88,7 +88,7 @@ Labor Economics, Development and Sovereign default
 
 </div>
 
-### Contac info
+### Contact info
 
 <!-- Correo -->
 <span id="person-email" itemprop="email"><a href="de.aristizabal411@uniandes.edu.co" style="color:black;"> <img alt="Qries" src="./images/correo.png" width=30" height="30">  de.aristizabal411@uniandes.edu.co</a></span>
@@ -101,19 +101,4 @@ Labor Economics, Development and Sovereign default
 
 
 </div> <!--- FIn del panel de la derecha --->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

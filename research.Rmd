@@ -1,5 +1,5 @@
 ---
-pagetitle : Research - Danilo Aristizabal
+pagetitle : Research - Danilo Esteban Aristizabal Giraldo
 ---
 
 <br>  </br> <!--- Agrega lineas en blanco --->
@@ -11,29 +11,29 @@ pagetitle : Research - Danilo Aristizabal
 <!------------- Panel de la izquierda ------------->
 <div class="col-sm-9">
 
-<!--- Documento 4 --->
+<!--- Documento 1 --->
 
-* <strong style="color:black;font-size:22px;"> Sovereign default and output volatility </strong> [[PDF]](https://eduard-martinez.github.io/research/motorcycle_restrictions/motorcycle_restrictions.pdf) [[SSNR]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3659686) (with [Michael Weintraub](http://michael-weintraub.squarespace.com) and [Leonardo Bonilla](https://investiga.banrep.gov.co/es/profile/76))
+* <strong style="color:black;font-size:22px;"> Payroll taxes, wage rigidities and youth unemployment: Evidence from colombian labor market</strong> [[PDF]](https://danilo-aristizabal.github.io/research/youth_unemployment/taxes_and_youth_unemployment.pdf) [[SSNR]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3659686) (with [Eduard Martínez](http://eduard-martinez.github.io))
 
- <p align="justify"> **Abstrac:** Although motorcycle restrictions have been adopted to reduce crime in more than 25 Colombian cities, no empirical evidence exists to demonstrate their effectiveness. This document evalutes the impact of six of these restrictions. To identify their causal effects, we estimate difference-in-differences models that exploit spatial and temporal variation in their implementation and georeferenced crime data. We find neither large nor lasting effects of these measures on crime. Given the high costs of assuring compliance with these measures and the costs they impose on citizens, local authorities should seek out other public policy alternatives to improve citizen security. </p>
+ <p align="justify"> **Abstrac:** This paper studies the effect of a payroll tax cut for new hires young workers under the age of
+28 in Colombia on youth employment. We use differential degrees of exposure to wage rigidities to identify the effect. We measure an individual’s exposure to wage rigidities as the distance, in the city in which the individual lives, from the median salary by educational level in comparison
+to the minimum wage. We have two different treatment groups and use a difference-in-difference model. The effect of reduced payroll taxes is asymmetric for youth who earn below and above the minimum wage. Reducing payroll taxes increased youth labor participation, rather than reducing
+informality. </p>
 
-<!--- Documento 4 --->
+<!--- Documento 2 --->
 
-* <strong style="color:black;font-size:22px;">Payroll taxes, wage rigidities and youth unemployment: Evidence from colombian labor market</strong> [[PDF]](https://eduard-martinez.github.io/research/youth_unemployment/youth_unemployment.pdf) (with [Danilo Aristizabal](http://danilo-aristizabal.github.io))
+* <strong style="color:black;font-size:22px;">Sovereign default and output volatility</strong> [[PDF]](https://danilo-aristizabal.github.io/research/sovereign_default/sovereign_default_and_output_volatility.pdf)
 
-<p align="justify"> **Abstrac:** This paper studies the effect on youth employment of a payroll tax cut for new hires young workers under the age of 28 in Colombia. We exploit differential degrees of exposure to wage rigidities to identify the effect. We measure an individual’s exposure to wage rigidities as the distance, in the city in which the individual lives, from the median salary by educational level with respect to the minimum wage. We have two different treatment groups and use a difference-in-difference model. The effect of reduced payroll taxes is asymmetric for youth who earn below and above the minimum wage. Reducing payroll taxes increased youth labor participation, rather than reducing informality. </p>
+<p align="justify"> **Abstrac:** High volatility in the economic conditions inside a country seem to be related with sovereign defaults. This paper studies how changes in the output process can explain default events in emerging economies. It establishes that economic conditions inside the country, all else equal, have significant impact on the default decisions. Nevertheless, It may also be driven jointly with other factors such as political risk or small output costs.
+ </p>
 
-<!--- Documento 4 --->
+<!--- Documento 3 --->
 
-* <strong style="color:black;font-size:22px;"> Economics Shocks and Crime: Evidenmce From Colombia </strong> [[PDF]](https://eduard-martinez.github.io/research/jmp/economics_shocks.pdf) 
+* <strong style="color:black;font-size:22px;"> Concentration of the mobile phone market and countries' competitiveness </strong> [[PDF]](https://danilo-aristizabal.github.io/research/Concentration_of_the_Mobile_Market_in_Colombia.pdf) (with [David Bardey](https://sites.google.com/site/davidbardey/), [Bibiana Sáenz] (https://www.linkedin.com/in/bibianasaenzbaquero/?originalSubdomain=co) and [Santiago Gómez] (https://www.researchgate.net/profile/Jose_Gomez_Medina))
 
-<p align="justify"> **Abstrac:** This paper studies the effect of a negative economic shock on crime. I collect criminal records for 165,000 users of an informal financial sector firm that was closed in Colombia at the end of 2008. I exploit the exogenous variation produced by the intervention in users who had deposits with an expiration date in the days close to the firm's closing date. The results suggest an increase in the number of legal proceedings for those suffering the negative economic shock, but this effect is concentrated only in those on the right-hand side of the distribution of unrecovered investments. </p>
+<p align="justify"> **Abstrac:** The present study aims to shed light on the role of mobile phone markets’ concentration on countries’ competitiveness using a database that includes 59 countries and performing several estimations to find a causal relationship. Using an instrumental variable that aims to explain the degree of concentration in mobile phone markets, we find that the higher is the concentration in this industry, the lower is the use of the information technology and communication (ITC). On the other hand, we also find that the use of ITC is positively associated to countries' competitiveness. Thus, our results reveal pretty strong positive spillover effects of the mobile phone industry on countries' competitiveness. These results suggest that all policies that aim to reduce concentration and market power in the mobile phone industry may increase competitiveness.
+ </p>
 
-<!--- Documento 4 --->
-
-* <strong style="color:black;font-size:22px;">School Education for Inclusion and Social Transformation in the Colombian Caribbean</strong> [[PDF]](https://eduard-martinez.github.io/research/caribbean_education/caribbean_education.pdf) [[DTSER-BANREP]](https://www.banrep.gov.co/es/publicaciones/documento-de-trabajo-economia-regional-y-urbana-263) (with [Leonardo Bonilla](https://investiga.banrep.gov.co/es/profile/76))
-
-<p align="justify"> **Abstrac:** The Caribbean Region of Colombia is particularly behind in terms of school coverage and quality. This paper proposes a set of policies that provide a big push to the public education system and allow closing the gap by 2030. Policies are organized into four categories: Preschool education, full-day schooling, teacher training and institutional capacity. The total cost of the intervention is estimated at 6,274 million dollars over 12 years, of which 2,114 correspond to investments and 4,160 to the additional recurrent expenditures of the education system. </p>
 
 </div>
 <!------------- Panel de la izquierda ------------->
@@ -42,22 +42,22 @@ pagetitle : Research - Danilo Aristizabal
 <!------------- Panel de la derecha ------------->
 <div class="col-sm-3">
 
-#### Eduard F. Martínez-González
+#### Danilo Esteban Aristizabal Giraldo
  
 <!-- Correo -->
-<p style="color:black;font-size:12px;"><img alt="Qries" src="./images/correo.png" width=20" height="20"> ef.martinezg@uniandes.edu.co </img></p>
+<p style="color:black;font-size:12px;"><img alt="Qries" src="./images/correo.png" width=20" height="20"> de.aristizabal411@uniandes.edu.co </img></p>
 
 <!-- Correo -->
-<p style="color:black;font-size:12px;"><img alt="Qries" src="./images/correo.png" width=20" height="20"> edfemagonza@gmail.com </img></p>
+<p style="color:black;font-size:12px;"><img alt="Qries" src="./images/correo.png" width=20" height="20"> daniloaristizabal@gmail.com </img></p>
 
 <!-- Tel -->
 <p style="color:black;font-size:12px;"><img alt="Qries" src="./images/tel.png" width=20" height="20"> (+571) 3394949 Ext: 2430</img></p>
 
 <!-- Twitter -->
- <a href="https://twitter.com/emartigo" style="color:black;font-size:12px;"> <img alt="Qries" src="./images/twitter.jpg" width=20" height="20">  @emartigo</a> 
+ <a href="https://twitter.com/dearistizabalg" style="color:black;font-size:12px;"> <img alt="Qries" src="./images/twitter.jpg" width=20" height="20">  @dearistizabalg</a> 
 
 <!-- GitHub -->
-<a href="https://github.com/eduard-martinez" style="color:black;font-size:12px;"> <img alt="Qries" src="./images/github.png" width=20" height="20">  eduard-martinez</a>
+<a href="https://github.com/danilo-aristizabal" style="color:black;font-size:12px;"> <img alt="Qries" src="./images/github.png" width=20" height="20">  eduard-martinez</a>
 </div>
 <!------------- Panel de la derecha ------------->
 
