@@ -82,8 +82,8 @@ Labor Economics, Development and Sovereign default.
 
   <!--- Logo QGIS --->
  <div class="col-12 col-sm-4">
-   <div class="featurette-icon"><img src="./images/QGis_logo.png" width=100" height="100"></div>
-   <h6 align=left style="color:black;"> &#160; &#160; &#160; Basic </h6>
+   <div class="featurette-icon"><img src="./images/Latex_logo.png" width=100" height="100"></div>
+   <h6 align=left style="color:black;"> &#160; &#160; &#160; Advanced </h6>
  </div>
  
 
