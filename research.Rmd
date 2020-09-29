@@ -1,5 +1,5 @@
 ---
-pagetitle : Research - Eduard F. Martínez-González
+pagetitle : Research - Danilo Aristizabal
 ---
 
 <br>  </br> <!--- Agrega lineas en blanco --->

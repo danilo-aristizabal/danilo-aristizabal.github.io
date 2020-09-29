@@ -1,11 +1,11 @@
-title: "Eduard F. Martínez-González"  
-name: "Eduard Martinez"
+title: "Danilo Esteban Aristizabal Giraldo"  
+name: "Danilo Aristizabal"
 output_dir: "."
 
  
 # Navegation bar
 navbar:
-  title: "Eduard F. Martínez-González"  
+  title: "Danilo Aristizabal"  
   type: inverse
   right:
     - text: "Home"
@@ -14,26 +14,18 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "CV"
-      href: https://eduard-martinez.github.io/cv/C_Eduard_F_Martinez_G.pdf
+      href: https://danilo-aristizabal.github.io/cv/CV_Danilo-Aristizabal.pdf
     - text: "Teaching"
       href: teaching.html
-    - text: "Databases"
-      href: databases.html
-
-    - text: "Blog"
-      # Menu bar
-      menu:
-        - text: "Clases"
-        - text: "Three Ways to Clone a GitHub Repository (In Spanish)"
-          href: blog/github/clonar_github.html
-        #- text: "Page B"
-        #  href: https://eduard-martinez.github.io/blog/page_b.html
-       # - text: "---------"
-      #  - text: "Heading 2"
-     #   - text: "Page C"
-      #    href: https://eduard-martinez.github.io/blog/page_c.html
-     #   - text: "Page D"
-     #     href: https://eduard-martinez.github.io/blog/page_d.html
+    
+    #- text: "Page B"
+    #  href: https://eduard-martinez.github.io/blog/page_b.html
+    # - text: "---------"
+    #  - text: "Heading 2"
+    #   - text: "Page C"
+    #    href: https://eduard-martinez.github.io/blog/page_c.html
+    #   - text: "Page D"
+    #     href: https://eduard-martinez.github.io/blog/page_d.html
 
 # Theme https://bookdown.org/yihui/rmarkdown/html-document.html
 output:

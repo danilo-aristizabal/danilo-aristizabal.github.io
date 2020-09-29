@@ -1,9 +1,0 @@
----
-pagetitle : Databases - Eduard F. Martínez-González
----
-
-<br>  </br>
-
-<br>  </br>
-
-<img src="./images/myway.gif" class="center" alt="drawing" width="350" height="350"/>

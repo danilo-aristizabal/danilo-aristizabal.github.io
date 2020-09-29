@@ -1,5 +1,5 @@
 ---
-pagetitle : Home - Eduard F. Martínez-González
+pagetitle : Home - Danilo Aristizabal
 ---
 
 <br>  </br> <!--- Agrega lineas en blanco --->
@@ -8,25 +8,25 @@ pagetitle : Home - Eduard F. Martínez-González
 <div class="col-sm-4">
 
 <!-- Foto completa -->
-<img src="./images/profile2.png" class="center" alt="drawing" width="250" height="250"/>
+<img src="./images/profile.png" class="center" alt="drawing" width="250" height="250"/>
 
-#### Eduard F. Martínez-González
-Economics PhD student at Universidad de los Andes, interested in Crime Economics and Education.
+#### Danilo Aristizabal
+Economics, PhD student at Universidad de los Andes, interested in Labor Economics and Development.
 
 <!-- Location -->
 <a href="https://www.google.com/maps/place/Bogotá/@4.6486259,-74.2478944,11z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9bfd2da6cb29:0x239d635520a33914!8m2!3d4.7109886!4d-74.072092" style="color:black;"> <img alt="Qries" src="./images/location.png" width=30" height="30">  Bogotá, Colombia.</a>
 
 <!-- Correo -->
-<p style="color:black"><img alt="Qries" src="./images/correo.png" width=30" height="30"> ef.martinezg@uniandes.edu.co </img></p>
+<p style="color:black"><img alt="Qries" src="./images/correo.png" width=30" height="30"> de.aristizabal411@uniandes.edu.co </img></p>
 
 <!-- Correo -->
-<p style="color:black"><img alt="Qries" src="./images/correo.png" width=30" height="30"> edfemagonza@gmail.com </img></p>
+<p style="color:black"><img alt="Qries" src="./images/correo.png" width=30" height="30"> daniloaristizabal@gmail.com </img></p>
 
 <!-- Twitter -->
- <a href="https://twitter.com/emartigo" style="color:black;"> <img alt="Qries" src="./images/twitter.jpg" width=30" height="30">  @emartigo</a> 
+ <a href="https://twitter.com/dearistizabalg" style="color:black;"> <img alt="Qries" src="./images/twitter.jpg" width=30" height="30">  @dearistizabalg</a> 
 
 <!-- GitHub -->
-<a href="https://github.com/eduard-martinez" style="color:black;"> <img alt="Qries" src="./images/github.png" width=30" height="30">  eduard-martinez</a>
+<a href="https://github.com/danilo-aristizabal" style="color:black;"> <img alt="Qries" src="./images/github.png" width=30" height="30">  danilo-aristizabal</a>
 
 </div>
 <!------------- Fin panel de la izquierda ------------->
@@ -37,26 +37,22 @@ Economics PhD student at Universidad de los Andes, interested in Crime Economics
 
 <br>  </br> <!--- Agrega lineas en blanco --->
 
-## About me
+### About me
 
-I’m an Economics PhD student at Universidad de los Andes. My primary interests are Crime Economics, Education and Labor Market. I’m also interested in Applied Econometrics, Big Data, and Machine Learning.
+I’m a PhD student in Economics at Universidad de los Andes. 
 
-You can find my CV <a href="https://eduard-martinez.github.io/cv/C_Eduard_F_Martinez_G.pdf">here</a>.
-
+### Research interests 
+Labor Economics, Development and Sovereign default
 
 ## Experience
 
 * #### Teaching
 
-  + <p><strong style="color:black;font-size:16px;"> Adjunct professor: </strong>  Statistical & R Programming Workshop Seminar, Universidad de los Andes. June 2019 - Currently. </p>
+  + <p><strong style="color:black;font-size:16px;"> TA: </strong>  Econometrics, Universidad de los Andes. August 2019 - Currently. </p>
 
 * #### Research
 
-  + <p><strong style="color:black;font-size:16px;">Research Assistant: </strong>  Centro de Estudios sobre Seguridad y Drogas (CESED), Universidad de los Andes. June 2019 - Currently. </p>
-
-  + <p><strong style="color:black;font-size:16px;"> Research Analyst: </strong>  Centro de Estudios sobre Seguridad y Drogas (CESED) - Universidad de los Andes. Jan 2018 - June 2019. </p>
-
-  + <p><strong style="color:black;font-size:16px;"> Research Assistant: </strong>  Centro de Estudios Económicos Regionales (CEER) - Central Bank of Colombia. June 2016 - July 2017. </p>
+  + <p><strong style="color:black;font-size:16px;"> Research Analyst: </strong>  Covida project - Universidad de los Andes. March 2020 - Currently. </p>
 
 ## Skills
 
@@ -67,25 +63,13 @@ You can find my CV <a href="https://eduard-martinez.github.io/cv/C_Eduard_F_Mart
  <!--- Logo R --->
  <div class="col-12 col-sm-4">
    <div class="featurette-icon"><img align=center src="./images/r_logo.png" width=100" height="100"></div>
-   <h6 align=left style="color:black;"> &#160; &#160; &#160; &#160; Advanced </h6>
+   <h6 align=left style="color:black;"> &#160; &#160; &#160; &#160; Intermediate </h6>
  </div>
 
   <!--- Logo QGIS --->
  <div class="col-12 col-sm-4">
    <div class="featurette-icon"><img src="./images/QGis_logo.png" width=100" height="100"></div>
-   <h6 align=left style="color:black;"> &#160; &#160; &#160; Intermediate </h6>
- </div>
- 
- <!--- Logo HTML --->
- <div class="col-12 col-sm-4">
-   <div class="featurette-icon"><img src="./images/html_logo.png" width=100" height="100"></div>
-   <h6 align=left style="color:black;"> &#160; &#160; Intermediate </h6>
- </div>
-
- <!--- Logo PYTHON --->
- <div class="col-12 col-sm-4">
-   <div class="featurette-icon"><img src="./images/python_logo.png" width=100" height="100"></div>
-   <h6 align=left style="color:black;"> &#160; &#160; &#160; &#160; &#160; &#160; Basic  </h6>
+   <h6 align=left style="color:black;"> &#160; &#160; &#160; Basic </h6>
  </div>
 
 </div>
@@ -93,7 +77,7 @@ You can find my CV <a href="https://eduard-martinez.github.io/cv/C_Eduard_F_Mart
 ## Contac info
 
 <!-- Correo -->
-<span id="person-email" itemprop="email"><a href="ef.martinezg@uniandes.edu.co" style="color:black;"> <img alt="Qries" src="./images/correo.png" width=30" height="30">  ef.martinezg@uniandes.edu.co</a></span>
+<span id="person-email" itemprop="email"><a href="de.aristizabal411@uniandes.edu.co" style="color:black;"> <img alt="Qries" src="./images/correo.png" width=30" height="30">  de.aristizabal411@uniandes.edu.co</a></span>
 
 <!-- Location -->
 <a href="https://www.google.com/maps/place/Universidad+de+los+Andes/@4.6014634,-74.0683221,17z/data=!3m1!4b1!4m5!3m4!1s0x8e3f99a4a124b335:0x8e9f4683d1db9cb!8m2!3d4.6014581!4d-74.0661334" style="color:black;"> <img alt="Qries" src="./images/location.png" width=30" height="30">  Department of Economics, Universidad de los Andes, Bogotá, Colombia.</a>
