@@ -1,5 +1,5 @@
 ---
-pagetitle : Home - Danilo Aristizabal
+pagetitle : Home - Danilo Esteban Aristizabal Giraldo
 ---
 
 <br>  </br> <!--- Agrega lineas en blanco --->
@@ -8,7 +8,7 @@ pagetitle : Home - Danilo Aristizabal
 <div class="col-sm-4">
 
 <!-- Foto completa -->
-<img src="./images/profile.png" class="center" alt="drawing" width="250" height="250"/>
+<img src="./images/profile1.png" class="center" alt="drawing" width="240" height="250xº"/>
 
 #### Danilo Aristizabal
 Economics, PhD student at Universidad de los Andes, interested in Labor Economics and Development.
@@ -44,17 +44,25 @@ I’m a PhD student in Economics at Universidad de los Andes.
 ### Research interests 
 Labor Economics, Development and Sovereign default
 
-## Experience
+### Experience
 
 * #### Teaching
 
-  + <p><strong style="color:black;font-size:16px;"> TA: </strong>  Econometrics, Universidad de los Andes. August 2019 - Currently. </p>
+  + <p><strong style="color:black;font-size:16px;"> TA: </strong>  2019 - Currently. Econometrics (PhD), Universidad de los Andes.  </p>
+  
+  + <p><strong style="color:black;font-size:16px;"> TA: </strong>  2020. Macroeconomics (Undergrad), Universidad de los Andes. </p>
+  
+  + <p><strong style="color:black;font-size:16px;"> TA: </strong>  2019. Macroeconomics (PhD), Universidad de los Andes. </p>
+ 
+  + <p><strong style="color:black;font-size:16px;"> TA: </strong>  2017. International Trade (Undergrad, English), Universidad de los Andes. </p>
 
 * #### Research
 
-  + <p><strong style="color:black;font-size:16px;"> Research Analyst: </strong>  Covida project - Universidad de los Andes. March 2020 - Currently. </p>
+  + <p><strong style="color:black;font-size:16px;"> Research Analyst: </strong>  Telefonica - Universidad de los Andes. 2019 - 2020. </p>
+  
+  + <p><strong style="color:black;font-size:16px;"> Research Assitant: </strong>  Covida project - Universidad de los Andes. March 2020 - Currently. </p>
 
-## Skills
+### Skills
 
 <p>  </p>
 
@@ -63,6 +71,12 @@ Labor Economics, Development and Sovereign default
  <!--- Logo R --->
  <div class="col-12 col-sm-4">
    <div class="featurette-icon"><img align=center src="./images/r_logo.png" width=100" height="100"></div>
+   <h6 align=left style="color:black;"> &#160; &#160; &#160; &#160; Intermediate </h6>
+ </div>
+ 
+ <!--- Logo Stata --->
+ <div class="col-12 col-sm-4">
+   <div class="featurette-icon"><img align=center src="./images/stata_logo.png" width=100" height="100"></div>
    <h6 align=left style="color:black;"> &#160; &#160; &#160; &#160; Intermediate </h6>
  </div>
 
@@ -74,7 +88,7 @@ Labor Economics, Development and Sovereign default
 
 </div>
 
-## Contac info
+### Contac info
 
 <!-- Correo -->
 <span id="person-email" itemprop="email"><a href="de.aristizabal411@uniandes.edu.co" style="color:black;"> <img alt="Qries" src="./images/correo.png" width=30" height="30">  de.aristizabal411@uniandes.edu.co</a></span>
