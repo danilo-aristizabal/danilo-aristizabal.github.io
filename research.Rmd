@@ -13,7 +13,7 @@ pagetitle : Research - Danilo Esteban Aristizabal Giraldo
 
 <!--- Documento 1 --->
 
-* <strong style="color:black;font-size:22px;"> Payroll taxes, wage rigidities and youth unemployment: Evidence from colombian labor market</strong> [[PDF]](https://danilo-aristizabal.github.io/research/youth_unemployment/taxes_and_youth_unemployment.pdf) [[SSNR]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3659686) (with [Eduard Martínez](http://eduard-martinez.github.io))
+* <strong style="color:black;font-size:22px;"> Payroll taxes, wage rigidities and youth unemployment: Evidence from the Colombian labor market</strong> [[PDF]](https://danilo-aristizabal.github.io/research/youth_unemployment/taxes_and_youth_unemployment.pdf) (with [Eduard Martínez](http://eduard-martinez.github.io))
 
  <p align="justify"> **Abstrac:** This paper studies the effect of a payroll tax cut for new hires young workers under the age of
 28 in Colombia on youth employment. We use differential degrees of exposure to wage rigidities to identify the effect. We measure an individual’s exposure to wage rigidities as the distance, in the city in which the individual lives, from the median salary by educational level in comparison
@@ -29,7 +29,7 @@ informality. </p>
 
 <!--- Documento 3 --->
 
-* <strong style="color:black;font-size:22px;"> Concentration of the mobile phone market and countries' competitiveness </strong> [[PDF]](https://danilo-aristizabal.github.io/research/Concentration_of_the_Mobile_Market_in_Colombia.pdf) (with [David Bardey](https://sites.google.com/site/davidbardey/), [Bibiana Sáenz] (https://www.linkedin.com/in/bibianasaenzbaquero/?originalSubdomain=co) and [Santiago Gómez] (https://www.researchgate.net/profile/Jose_Gomez_Medina))
+* <strong style="color:black;font-size:22px;"> Concentration of the mobile phone market and countries' competitiveness </strong> [[PDF]](https://danilo-aristizabal.github.io/research/Concentration_of_the_Mobile_Market_in_Colombia.pdf) (with [David Bardey](https://sites.google.com/site/davidbardey/), [Bibiana Sáenz](https://www.linkedin.com/in/bibianasaenzbaquero/?originalSubdomain=co) and [Santiago Gómez](https://www.researchgate.net/profile/Jose_Gomez_Medina))
 
 <p align="justify"> **Abstrac:** The present study aims to shed light on the role of mobile phone markets’ concentration on countries’ competitiveness using a database that includes 59 countries and performing several estimations to find a causal relationship. Using an instrumental variable that aims to explain the degree of concentration in mobile phone markets, we find that the higher is the concentration in this industry, the lower is the use of the information technology and communication (ITC). On the other hand, we also find that the use of ITC is positively associated to countries' competitiveness. Thus, our results reveal pretty strong positive spillover effects of the mobile phone industry on countries' competitiveness. These results suggest that all policies that aim to reduce concentration and market power in the mobile phone industry may increase competitiveness.
  </p>

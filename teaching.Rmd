@@ -1,9 +1,19 @@
 ---
-pagetitle : Teaching - Eduard F. Martínez-González
+pagetitle : Teaching - Danilo Esteban Aristizabal Giraldo
 ---
 
 <br> </br>
 
-## R Course
+### Current Teaching 
+Universidad de los Andes.
 
-You can see my R course at GitHub [here](https://github.com/taller-R).
+* #### Homeworks
+
+      + <strong style="color:black;font-size:22px;"> Homework 1 </strong> [[PDF]](https://danilo-aristizabal.github.io/teaching/20200819_HW1.pdf)
+      + <strong style="color:black;font-size:22px;"> Homework 2 </strong> [[PDF]](https://danilo-aristizabal.github.io/teaching/20200827_HW2.pdf)
+      + <strong style="color:black;font-size:22px;"> Homework 3 </strong> [[PDF]](https://danilo-aristizabal.github.io/teaching/20200903_HW3.pdf)
+      + <strong style="color:black;font-size:22px;"> Homework 4 </strong> [[PDF]](https://danilo-aristizabal.github.io/teaching/20200910_HW4.pdf)
+      + <strong style="color:black;font-size:22px;"> Homework 5 </strong> [[PDF]](https://danilo-aristizabal.github.io/teaching/20200917_HW5.pdf)
+      + <strong style="color:black;font-size:22px;"> Homework 6 </strong> [[PDF]](https://danilo-aristizabal.github.io/teaching/20200924_HW6.pdf)
+
+<!-- GitHub  You can see my Econometrics course at GitHub [here](https://github.com/taller-R). -->
