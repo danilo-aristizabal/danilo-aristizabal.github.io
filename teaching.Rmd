@@ -7,7 +7,7 @@ pagetitle : Teaching - Danilo Esteban Aristizabal Giraldo
 ### Current Teaching 
 Universidad de los Andes.
 
-* #### Homeworks
+* #### Econometrics, Phd course
 
  + <strong style="color:black;font-size:14px;"> Homework 1</strong> [[PDF]](https://danilo-aristizabal.github.io/teaching/econometrics/20200819_HW1.pdf)
  + <strong style="color:black;font-size:14px;"> Homework 2</strong> [[PDF]](https://danilo-aristizabal.github.io/teaching/econometrics/20200827_HW2.pdf)
