@@ -15,5 +15,6 @@ Universidad de los Andes.
  + <strong style="color:black;font-size:14px;"> Homework 4</strong> [[PDF]](https://danilo-aristizabal.github.io/teaching/econometrics/20200910_HW4.pdf)
  + <strong style="color:black;font-size:14px;"> Homework 5</strong> [[PDF]](https://danilo-aristizabal.github.io/teaching/econometrics/20200917_HW5.pdf)
  + <strong style="color:black;font-size:14px;"> Homework 6</strong> [[PDF]](https://danilo-aristizabal.github.io/teaching/econometrics/20200924_HW6.pdf)
++ <strong style="color:black;font-size:14px;"> Homework 7</strong> [[PDF]](https://danilo-aristizabal.github.io/teaching/econometrics/20201015_HW7.pdf)
 
-<!-- GitHub  You can see my Econometrics course at GitHub [here](https://github.com/taller-R). -->
+<!-- GitHub  You can see my Econometrics course at GitHub [here](https://github.com/Econometrics). -->
