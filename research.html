@@ -20,6 +20,18 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script src="site_libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 
 
@@ -51,7 +63,7 @@ h6 {
 }
 </style>
 
-<link rel="stylesheet" href="css\style.css" type="text/css" />
+<link rel="stylesheet" href="css/style.css" type="text/css" />
 
 
 
@@ -300,6 +312,13 @@ $(document).ready(function () {
 </p>
 <!--- Documento 2 --->
 <ul>
+<li><strong style="color:black;font-size:22px;"> SARS-CoV-2 spread, detection, and dynamics in a megacity in Latin America </strong><a href="https://danilo-aristizabal.github.io/research/covid/SARS-CoV-2_spread_detection_and_dynamics_in_a_megacity_in_Latin_America.pdf">[PDF]</a> (with <a href="https://www.laajaj.com/">Rachid Laajaj</a>, <a href="https://ignaciomsarmiento.github.io/">Ignacio Sarmiento-Barbieri</a> and <a href="https://sites.google.com/view/raquelbernal/">Raquel Bernal</a>)</li>
+</ul>
+<p align="justify">
+<strong>Abstract:</strong> In many developing countries, the COVID-19 pandemic has spread much faster and wider than the number of detected cases implies. By combining data from 59,770 RT-PCR tests on mostly asymptomatic individuals with administrative data on all detected cases, we capture the spread and dynamics of the COVID-19 pandemic in Bogota from June 2020 to early March 2021. Our data provide unusually broad and detailed information on mostly asymptomatic adults in Bogota, allowing to describe various features of the pandemic that appear to be specific to a developing country context. We fnd that, by the end of March 2021, slightly more than half of the population in Bogota has been infected, despite only a small fraction of this population being detected. In July 2020, after four months of generalized quarantine that mitigated the pandemic without curving it, the initial buildup of immunity contributed to the end of the first wave. We also show that the share of the population infected by February 2021 varies widely by occupation, socio-economic stratum, and location. This, in turn, has affected the dynamics of the spread: while the first wave of infections was driven by the lowest economic strata and highly-exposed occupations, the second peak affected the population more evenly. A better understanding of the spread and dynamics of the pandemic across different groups provides valuable guidance for efficient targeting of health policy measures and restrictions.
+</p>
+<!--- Documento 2 --->
+<ul>
 <li><strong style="color:black;font-size:22px;"> Concentration of the mobile phone market and countries’ competitiveness </strong><a href="https://danilo-aristizabal.github.io/research/mobile_market/Concentration_of_the_Mobile_Market_in_Colombia.pdf">[PDF]</a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3714775">[SSRN]</a> (with <a href="https://sites.google.com/site/davidbardey/">David Bardey</a>, <a href="https://www.linkedin.com/in/bibianasaenzbaquero/?originalSubdomain=co">Bibiana Sáenz</a> and <a href="https://www.researchgate.net/profile/Jose_Gomez_Medina">Santiago Gómez</a>)</li>
 </ul>
 <p align="justify">
@@ -347,7 +366,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
