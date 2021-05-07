@@ -42,7 +42,7 @@ Economics, PhD student at Universidad de los Andes, interested in Labor Economic
 I’m a PhD student in Economics at Universidad de los Andes. 
 
 ### Research interests 
-Labor Economics, Development and Sovereign default.
+Labor Economics, Applied econometrics and Development.
 
 ### Experience
 
@@ -60,7 +60,7 @@ Labor Economics, Development and Sovereign default.
 
   + <p><strong style="color:black;font-size:16px;"> Research Analyst: </strong>  Telefónica - Universidad de los Andes. 2019 - 2020. </p>
   
-  + <p><strong style="color:black;font-size:16px;"> Research Assitant: </strong>  COVIDA Project - Universidad de los Andes. March 2020 - Currently. </p>
+  + <p><strong style="color:black;font-size:16px;"> Research Assistant: </strong>  COVIDA Project - Universidad de los Andes. 2020 - 2021. </p>
 
 ### Skills
 
@@ -71,7 +71,7 @@ Labor Economics, Development and Sovereign default.
  <!--- Logo R --->
  <div class="col-12 col-sm-4">
    <div class="featurette-icon"><img align=center src="./images/r_logo.png" width=100" height="100"></div>
-   <h6 align=left style="color:black;"> &#160; &#160; &#160; &#160; Intermediate </h6>
+   <h6 align=left style="color:black;"> &#160; &#160; &#160; &#160; Advanced </h6>
  </div>
  
  <!--- Logo Stata --->
@@ -80,7 +80,7 @@ Labor Economics, Development and Sovereign default.
    <h6 align=left style="color:black;"> &#160; &#160; &#160; &#160; Intermediate </h6>
  </div>
 
-  <!--- Logo QGIS --->
+  <!--- Logo LaTeX --->
  <div class="col-12 col-sm-4">
    <div class="featurette-icon"><img src="./images/Latex_logo.png" width=100" height="100"></div>
    <h6 align=left style="color:black;"> &#160; &#160; &#160; Advanced </h6>
