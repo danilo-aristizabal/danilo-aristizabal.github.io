@@ -4,26 +4,26 @@ pagetitle : Research - Danilo Esteban Aristizabal Giraldo
 
 <br>  </br> <!--- Agrega lineas en blanco --->
 
-# Working papers
-
-<p>  </p> <!--- Agrega una linea en blanco --->
+# Publications
 
 <!------------- Panel de la izquierda ------------->
 <div class="col-sm-9">
+
+* <strong style="color:black;font-size:22px;"> COVID-19 spread, detection, and dynamics in Bogota, Colombia </strong>[[Go to paper]](https://www.nature.com/articles/s41467-021-25038-z) with [Rachid Laajaj](https://www.laajaj.com/), [Camilo De Los Rios](https://sites.google.com/view/cdelosriosru), [Ignacio Sarmiento-Barbieri](https://ignaciomsarmiento.github.io/), [Eduardo Behrentz](https://eduardobehrentz.com/), [Raquel Bernal](https://sites.google.com/view/raquelbernal/), [Giancarlo Buitrago](https://www.researchgate.net/profile/Giancarlo-Buitrago), [Zulma Cucunubá](http://www.imperial.ac.uk/people/zulma.cucunuba), Fernando de la Hoz, Alejandro Gaviria, Luis Jorge Hernández, Leonardo León, Diane Moyano, Elkin Osorio, Andrea Ramírez Varela, Silvia Restrepo, Rodrigo Rodriguez, Norbert Schady and Martha Vives.
+
+<p>  </p> <!--- Agrega una linea en blanco --->
+
+# Working papers
+
+<p>  </p> <!--- Agrega una linea en blanco --->
 
 <!--- Documento 1 --->
 
 * <strong style="color:black;font-size:22px;"> Payroll taxes, wage rigidities and youth unemployment: Evidence from the Colombian labor market</strong> [[PDF]](https://danilo-aristizabal.github.io/research/youth_unemployment/taxes_and_youth_unemployment.pdf) with [Eduard Martínez](http://eduard-martinez.github.io)
 
- <p align="justify"> **Abstract:** This paper studies the effect of a payroll tax cut for new hires young workers under the age of
-28 in Colombia on youth employment. We use differential degrees of exposure to wage rigidities to identify the effect. We measure an individual’s exposure to wage rigidities as the distance, in the city in which the individual lives, from the median salary by educational level in comparison
+ <p align="justify"> **Abstract:** This paper studies the effect of a payroll tax cut for new hires young workers under the age of 28 in Colombia on youth employment. We use differential degrees of exposure to wage rigidities to identify the effect. We measure an individual’s exposure to wage rigidities as the distance, in the city in which the individual lives, from the median salary by educational level in comparison
 to the minimum wage. We have two different treatment groups and use a difference-in-difference model. The effect of reduced payroll taxes is asymmetric for youth who earn below and above the minimum wage. Reducing payroll taxes increased youth labor participation, rather than reducing
 informality. </p>
-
-<!--- Documento 2 --->
-
-* <strong style="color:black;font-size:22px;"> SARS-CoV-2 spread, detection, and dynamics in a megacity in Latin America </strong>[[PDF]](https://danilo-aristizabal.github.io/research/covid/SARS-CoV-2_spread_detection_and_dynamics_in_a_megacity_in_Latin_America.pdf) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3822625) with [Rachid Laajaj](https://www.laajaj.com/), [Camilo De Los Rios](https://sites.google.com/view/cdelosriosru), [Ignacio Sarmiento-Barbieri](https://ignaciomsarmiento.github.io/), [Eduardo Behrentz](https://eduardobehrentz.com/), [Raquel Bernal](https://sites.google.com/view/raquelbernal/), [Giancarlo Buitrago](https://www.researchgate.net/profile/Giancarlo-Buitrago), [Zulma Cucunubá](http://www.imperial.ac.uk/people/zulma.cucunuba), Fernando de la Hoz, Alejandro Gaviria, Luis Jorge Hernández, Leonardo León, Diane Moyano, Elkin Osorio, Andrea Ramírez Varela, Silvia Restrepo, Rodrigo Rodriguez, Norbert Schady and Martha Vives. (Submitted)
-
 
 <!--- Documento 2 --->
 
@@ -32,7 +32,7 @@ informality. </p>
 
 <!--- Documento 2 --->
 
-* <strong style="color:black;font-size:22px;"> Concentration of the mobile phone market and countries' competitiveness </strong>[[PDF]](https://danilo-aristizabal.github.io/research/mobile_market/Concentration_of_the_Mobile_Market_in_Colombia.pdf) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3714775) with [David Bardey](https://sites.google.com/site/davidbardey/), [Bibiana Sáenz](https://www.linkedin.com/in/bibianasaenzbaquero/?originalSubdomain=co) and [Santiago Gómez](https://www.researchgate.net/profile/Jose_Gomez_Medina) (Submitted)
+* <strong style="color:black;font-size:22px;"> Concentration of the mobile phone market and countries' competitiveness </strong>[[PDF]](https://danilo-aristizabal.github.io/research/mobile_market/Concentration_of_the_Mobile_Market_in_Colombia.pdf) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3714775) with [David Bardey](https://sites.google.com/site/davidbardey/), [Bibiana Sáenz](https://www.linkedin.com/in/bibianasaenzbaquero/?originalSubdomain=co) and [Santiago Gómez](https://www.researchgate.net/profile/Jose_Gomez_Medina) (Accepted)
 
 
 <!--- Documento 3 --->
