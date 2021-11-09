@@ -31,7 +31,7 @@ did not decrease. Pass through effect are null which is consistent with a labor 
 
 <!--- Documento 2 --->
 
-* <strong style="color:black;font-size:22px;"> Concentration of the mobile phone market and countries' competitiveness </strong>[[PDF]](https://danilo-aristizabal.github.io/research/mobile_market/Concentration_of_the_Mobile_Market_in_Colombia.pdf) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3714775) with [David Bardey](https://sites.google.com/site/davidbardey/), [Bibiana Sáenz](https://www.linkedin.com/in/bibianasaenzbaquero/?originalSubdomain=co) and [Santiago Gómez](https://www.researchgate.net/profile/Jose_Gomez_Medina) (Accepted)
+* <strong style="color:black;font-size:22px;"> Concentration of the mobile telecommunications markets and countries' competitiveness </strong>[[PDF]](https://danilo-aristizabal.github.io/research/mobile_market/Concentration_of_the_Mobile_Market_and_competitiveness.pdf) [[SSRN]](https://authors.elsevier.com/c/1e2eF16AgYAzs4) with [David Bardey](https://sites.google.com/site/davidbardey/), [Bibiana Sáenz](https://www.linkedin.com/in/bibianasaenzbaquero/?originalSubdomain=co) and [Santiago Gómez](https://www.researchgate.net/profile/Jose_Gomez_Medina)
 
 
 <!--- Documento 3 --->
