@@ -9,7 +9,8 @@ Universidad de los Andes.
 
 * #### Econometría I, Pregrado
 
-+ <strong style="color:black;font-size:14px;"> Homework 1</strong> [[Clase_1]](https://danilo-aristizabal.github.io/teaching/econometria/Clase_1.rar)
++ <strong style="color:black;font-size:14px;"> Clase 1</strong> [[Material]](https://danilo-aristizabal.github.io/teaching/econometria/Clase_1.rar)
++ <strong style="color:black;font-size:14px;"> Clase 2</strong> [[Material]](https://danilo-aristizabal.github.io/teaching/econometria/Clase_2.zip)
 
 * #### Econometrics, Phd
 
