@@ -1,0 +1,12 @@
+	(1)
+VARIABLES	nota_final
+	
+horas_estudio_semana	0.414***
+	(0.0162)
+Constant	0.965***
+	(0.0649)
+	
+Observations	1,000
+R-squared	0.395
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
