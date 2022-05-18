@@ -63,6 +63,8 @@ Labor Economics, Applied econometrics and Development.
   + <p><strong style="color:black;font-size:16px;"> Research Analyst: </strong>  Telefónica - Universidad de los Andes. 2019 - 2020. </p>
   
   + <p><strong style="color:black;font-size:16px;"> Research Assistant: </strong>  COVIDA Project - Universidad de los Andes. 2020 - 2021. </p>
+  
+  + <p><strong style="color:black;font-size:16px;"> Research Analyist: </strong>  World Bank. 2022 - . </p>
 
 ### Skills
 
@@ -79,7 +81,7 @@ Labor Economics, Applied econometrics and Development.
  <!--- Logo Stata --->
  <div class="col-12 col-sm-4">
    <div class="featurette-icon"><img align=center src="./images/stata_logo.png" width=100" height="100"></div>
-   <h6 align=left style="color:black;"> &#160; &#160; &#160; &#160; Intermediate </h6>
+   <h6 align=left style="color:black;"> &#160; &#160; &#160; &#160; Advanced </h6>
  </div>
 
   <!--- Logo LaTeX --->

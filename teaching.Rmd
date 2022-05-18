@@ -13,6 +13,8 @@ Universidad de los Andes.
 + <strong style="color:black;font-size:14px;"> Clase 2</strong> [[Material]](https://danilo-aristizabal.github.io/teaching/econometria/Clase_2_Intro_R.zip)
 + <strong style="color:black;font-size:14px;"> Clase 3</strong> [[Material]](https://danilo-aristizabal.github.io/teaching/econometria/Clase_3_Estadisticas_Descriptivas_y_Graficos.zip)
 + <strong style="color:black;font-size:14px;"> Clase 4</strong> [[Material]](https://danilo-aristizabal.github.io/teaching/econometria/Clase_4_Modelo_regresion_lineal.rar)
++ <strong style="color:black;font-size:14px;"> Clase 5</strong> [[Material]](https://danilo-aristizabal.github.io/teaching/econometria/Clase_5_Modelo_regresion_lineal.rar)
++ <strong style="color:black;font-size:14px;"> Clase 6</strong> [[Material]](https://danilo-aristizabal.github.io/teaching/econometria/Clase_6_MRL_R.rar)
 
 
 * #### Econometrics, Phd
