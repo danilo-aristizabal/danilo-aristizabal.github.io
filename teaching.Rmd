@@ -4,10 +4,14 @@ pagetitle : Teaching - Danilo Esteban Aristizabal Giraldo
 
 <br> </br>
 
-### Current Teaching 
+## Current Teaching 
 Universidad de los Andes.
 
-* #### Econometría I, Pregrado
+* ### Regulación Económica: Mercado Laboral, MEcA
+
++ <strong style="color:black;font-size:14px;"> Clase 1</strong> [[Material]](https://danilo-aristizabal.github.io/teaching/Mercado laboral/Clase 1.rar)
+
+* ### Econometría I, Pregrado
 
 + <strong style="color:black;font-size:14px;"> Clase 1</strong> [[Material]](https://danilo-aristizabal.github.io/teaching/econometria/Clase_1_Intro_Stata.rar)
 + <strong style="color:black;font-size:14px;"> Clase 2</strong> [[Material]](https://danilo-aristizabal.github.io/teaching/econometria/Clase_2_Intro_R.zip)
@@ -17,7 +21,7 @@ Universidad de los Andes.
 + <strong style="color:black;font-size:14px;"> Clase 6</strong> [[Material]](https://danilo-aristizabal.github.io/teaching/econometria/Clase_6_MRL_R.rar)
 
 
-* #### Econometrics, Phd
+* ### Econometrics, Phd
 
  + <strong style="color:black;font-size:14px;"> Homework 1</strong> [[PDF]](https://danilo-aristizabal.github.io/teaching/econometrics/20200819_HW1.pdf)
  + <strong style="color:black;font-size:14px;"> Homework 2</strong> [[PDF]](https://danilo-aristizabal.github.io/teaching/econometrics/20200827_HW2.pdf)
