@@ -4,12 +4,20 @@ pagetitle : Teaching - Danilo Esteban Aristizabal Giraldo
 
 <br> </br>
 
-## Current Teaching 
-Universidad de los Andes.
-
+## Current Teaching - Universidad de los Andes
+ 
 * ### Regulación Económica: Mercado Laboral, MEcA
 
 + <strong style="color:black;font-size:14px;"> Clase 1</strong> [[Material]](https://danilo-aristizabal.github.io/teaching/Mercado laboral/Clase 1.rar)
++ <strong style="color:black;font-size:14px;"> Clase 2</strong>
++ <strong style="color:black;font-size:14px;"> Clase 3</strong>
++ <strong style="color:black;font-size:14px;"> Clase 4</strong>
++ <strong style="color:black;font-size:14px;"> Clase 5</strong>
++ <strong style="color:black;font-size:14px;"> Clase 6</strong>
++ <strong style="color:black;font-size:14px;"> Clase 7</strong>
++ <strong style="color:black;font-size:14px;"> Clase 8</strong>
++ <strong style="color:black;font-size:14px;"> Clase 9</strong>
++ <strong style="color:black;font-size:14px;"> Clase 10</strong>
 
 * ### Econometría I, Pregrado
 
