@@ -10,7 +10,7 @@ pagetitle : Teaching - Danilo Esteban Aristizabal Giraldo
 
 + <strong style="color:black;font-size:14px;"> Clase 1</strong> [[Material]](https://danilo-aristizabal.github.io/teaching/Mercado laboral/Clase 1.rar)
 + <strong style="color:black;font-size:14px;"> Clase 2</strong> [[Material]](https://danilo-aristizabal.github.io/teaching/Mercado laboral/Clase 2.dta)
-+ <strong style="color:black;font-size:14px;"> Clase 3</strong>
++ <strong style="color:black;font-size:14px;"> Clase 3</strong> [Preparación Parcial I]
 + <strong style="color:black;font-size:14px;"> Clase 4</strong>
 + <strong style="color:black;font-size:14px;"> Clase 5</strong>
 + <strong style="color:black;font-size:14px;"> Clase 6</strong>
