@@ -11,6 +11,10 @@ pagetitle : Research - Danilo Esteban Aristizabal Giraldo
 
 <!--- Documento 1 --->
 
+* <strong style="color:black;font-size:22px;"> Nueva evidencia sobre la informalidad laboral y empresarial en Colombia (2025) </strong>[[PDF]](https://danilo-aristizabal.github.io/research/Espe Informalidad laboral y empresarial.pdf) [[Go to paper]](https://investiga.banrep.gov.co/es/espe/espe108) with [Andrea Otero](https://sites.google.com/view/andrea-otero-cortes/home?authuser=0), [Karina Acosta](https://investiga.banrep.gov.co/es/profile/74),[Luis E. Arango](https://investiga.banrep.gov.co/es/profile/365), [Oscar Becerra](https://sites.google.com/site/orbecerra/), [Oscar Avila](https://investiga.banrep.gov.co/es/profile/3466), [Jesus Morales](https://investiga.banrep.gov.co/es/profile/3881), Luz Adriana Florez, Luis ARmando Galvis, Carlos Medina, Juliana Jaramillo, Catalina Granda, Leonardo Morales, Christian Posso, Jose Pulido.
+
+<!--- Documento 2 --->
+
 * <strong style="color:black;font-size:22px;"> Understanding How Socioeconomic Inequalities Drive Inequalities in COVID-19 Infections (2022) </strong>[[PDF]](https://danilo-aristizabal.github.io/research/covid/Understanding_how_socioeconomic_inequalities_drive_inequalities_in_SARS-CoV-2_infections.pdf) [[Go to paper]](https://www.nature.com/articles/s41598-022-11706-7) with [Rachid Laajaj](https://www.laajaj.com/), [Duncan Webb](https://sites.google.com/view/duncan-webb/home),[Eduardo Behrentz](https://eduardobehrentz.com/), [Raquel Bernal](https://sites.google.com/view/raquelbernal/), [Giancarlo Buitrago](https://www.researchgate.net/profile/Giancarlo-Buitrago), [Zulma Cucunubá](http://www.imperial.ac.uk/people/zulma.cucunuba), Fernando de la Hoz, Alejandro Gaviria, Luis Jorge Hernández, Camilo De Los Rios, Andrea Ramírez Varela, Silvia Restrepo, Norbert Schady, Martha Vives.
 
 
@@ -19,7 +23,7 @@ pagetitle : Research - Danilo Esteban Aristizabal Giraldo
 * <strong style="color:black;font-size:22px;"> Concentration of the mobile telecommunications markets and countries' competitiveness (2022) </strong>[[PDF]](https://danilo-aristizabal.github.io/research/mobile_market/Concentration_of_the_Mobile_Market_and_competitiveness.pdf) [[Go to paper]](https://www.sciencedirect.com/science/article/abs/pii/S0308596121001348) with [David Bardey](https://sites.google.com/site/davidbardey/), [Bibiana Sáenz](https://www.linkedin.com/in/bibianasaenzbaquero/?originalSubdomain=co) and [Santiago Gómez](https://www.researchgate.net/profile/Jose_Gomez_Medina)
 
 
-<!--- Documento 2 --->
+<!--- Documento 4 --->
 
 * <strong style="color:black;font-size:22px;"> COVID-19 spread, detection, and dynamics in Bogota, Colombia (2021) </strong>[[Go to paper]](https://www.nature.com/articles/s41467-021-25038-z) with [Rachid Laajaj](https://www.laajaj.com/), [Camilo De Los Rios](https://sites.google.com/view/cdelosriosru), [Ignacio Sarmiento-Barbieri](https://ignaciomsarmiento.github.io/), [Eduardo Behrentz](https://eduardobehrentz.com/), [Raquel Bernal](https://sites.google.com/view/raquelbernal/), [Giancarlo Buitrago](https://www.researchgate.net/profile/Giancarlo-Buitrago), [Zulma Cucunubá](http://www.imperial.ac.uk/people/zulma.cucunuba), Fernando de la Hoz, Alejandro Gaviria, Luis Jorge Hernández, Leonardo León, Diane Moyano, Elkin Osorio, Andrea Ramírez Varela, Silvia Restrepo, Rodrigo Rodriguez, Norbert Schady and Martha Vives.
 
@@ -32,16 +36,19 @@ pagetitle : Research - Danilo Esteban Aristizabal Giraldo
 
 <!--- Documento 1 --->
 
-* <strong style="color:black;font-size:22px;"> Payroll taxes, wage rigidities and youth unemployment: Evidence from the Colombian labor market</strong> [[PDF]](https://danilo-aristizabal.github.io/research/youth_unemployment/taxes_and_youth_unemployment.pdf) with [Eduard Martínez](http://eduard-martinez.github.io)
-
- <p align="justify"> **Abstract:** This paper studies the effect on labor market outcomes of a payroll tax cut for new hires young workers under the age of 28 in Colombia. We use differential degrees of exposure to wage rigidities to identify the effect. We measure an individual’s exposure to wage rigidities as the gap between the median salary, in the city in which the individual lives, and the minimum wage set at the national level. We have two different treatment groups and use a difference-in-difference model. The effect of reducing payroll taxes is asymmetric for youth who earn below, near and above the minimum wage. Reducing payroll taxes increased the probability of getting formal employment by 8.5% and increased the probability of participating in the labor market by 4% for young people who face labor markets where the median salary is near the minimum wage. However, informality did not decrease. Pass through effect are null which is consistent with a labor market with high wage rigidities. </p>
+* <strong style="color:black;font-size:22px;"> Training Courses and Formal Employment</strong> [[PDF]](https://danilo-aristizabal.github.io/research/.pdf) with [Eduard Martínez](http://eduard-martinez.github.io)
 
 <!--- Documento 2 --->
 
-* <strong style="color:black;font-size:22px;"> Social Networks and formal vs informal employment </strong> 
+* <strong style="color:black;font-size:22px;"> Payroll taxes and youth labor market outcomes: Evidence from the Colombian labor market</strong> [[PDF]](https://danilo-aristizabal.github.io/research/youth_unemployment/taxes_and_youth_unemployment.pdf) with [Eduard Martínez](http://eduard-martinez.github.io)
 
+ <p align="justify"> **Abstract:** This paper studies the effect on labor market outcomes of a payroll tax cut for new hires of young workers under the age of 28 in an economy with a high binding minimum wage. We use exposure to wage rigidities to identify the effect. We measure an individual's exposure to wage rigidities as the gap between the median salary, in the city in which the individual lives, and the minimum wage set at the national level. We use a difference-in-difference model. The effect of a payroll tax cut is asymmetric for youth who face labor markets with a binding minimum wage and those who do not. Reducing payroll taxes increased the probability of being formally employed given that the person is employed by 16% and increased the probability of participating in the labor market by 5% for young people below 28 compared to people above 28. Pass through effect are null which is consistent with a labor market with high wage rigidities. </p>
 
 <!--- Documento 3 --->
+
+* <strong style="color:black;font-size:22px;"> Social Networks and formal vs informal employment </strong> 
+
+<!--- Documento 4 --->
 * <strong style="color:black;font-size:22px;">Sovereign default and output volatility</strong> [[PDF]](https://danilo-aristizabal.github.io/research/sovereign_default/sovereign_default_and_output_volatility.pdf)
 
 </div>
