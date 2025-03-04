@@ -36,7 +36,7 @@ pagetitle : Research - Danilo Esteban Aristizabal Giraldo
 
 <!--- Documento 1 --->
 
-* <strong style="color:black;font-size:22px;"> Training Courses and Formal Employment</strong> [[PDF]](https://danilo-aristizabal.github.io/research/.pdf) with [Eduard Martínez](http://eduard-martinez.github.io)
+* <strong style="color:black;font-size:22px;"> Training Courses and Formal Employment</strong> [[PDF]](https://danilo-aristizabal.github.io/research/Training_courses.pdf)
 
 <!--- Documento 2 --->
 
