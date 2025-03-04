@@ -11,7 +11,6 @@ pagetitle : Home - Danilo Esteban Aristizabal Giraldo
 <img src="./images/profile1.png" class="center" alt="drawing" width="240" height="250xº"/>
 
 #### Danilo Esteban Aristizabal Giraldo
-Economics, PhD student at Universidad de los Andes, interested in Labor Economics and Development.
 
 <!-- Location -->
 <a href="https://www.google.com/maps/place/Bogotá/@4.6486259,-74.2478944,11z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9bfd2da6cb29:0x239d635520a33914!8m2!3d4.7109886!4d-74.072092" style="color:black;"> <img alt="Qries" src="./images/location.png" width=30" height="30">  Bogotá, Colombia.</a>
@@ -39,7 +38,7 @@ Economics, PhD student at Universidad de los Andes, interested in Labor Economic
 
 ### About me
 
-I’m a PhD student in Economics at Universidad de los Andes. 
+Welcome to my website! I am a researcher at the World Bank. My research focuses on labor and development economics with a particular interest on active labor market policies in Latin America. I completed my PhD in economics at Universidad de los Andes. 
 
 ### Research interests 
 Labor Economics, Applied econometrics and Development.
@@ -47,6 +46,8 @@ Labor Economics, Applied econometrics and Development.
 ### Experience
 
 * #### Teaching
+
+  + <p><strong style="color:black;font-size:16px;"> TA: </strong>  2025. Advanced Econometrics (PhD), Universidad de los Andes. </p>
 
   + <p><strong style="color:black;font-size:16px;"> TA: </strong>  2023. Labor Economics (Undergrad), Universidad de los Andes. </p>
 
@@ -64,14 +65,9 @@ Labor Economics, Applied econometrics and Development.
 
 * #### Research
 
-  + <p><strong style="color:black;font-size:16px;"> Research Analyist: </strong>  World Bank. Social Protection and Labor Global. 2022-2023, currently. </p>
+  + <p><strong style="color:black;font-size:16px;"> Research Analyist: </strong>  World Bank. Social Protection and Labor Global. 2022 - Currently. </p>
   
   + <p><strong style="color:black;font-size:16px;"> Research Assistant: </strong>  Republic Bank of Colombia. 2022. </p>
-  
-  + <p><strong style="color:black;font-size:16px;"> Research Assistant: </strong>  COVIDA Project - Universidad de los Andes. 2020 - 2021. </p>
-  
-  + <p><strong style="color:black;font-size:16px;"> Research Analyst: </strong>  Telefonica - Universidad de los Andes. 2019 - 2020. </p>
-  
   
 
 ### Skills
